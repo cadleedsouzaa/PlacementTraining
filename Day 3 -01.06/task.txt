@@ -1,0 +1,8 @@
+Q1 - class animal and class dog, both have sound function, using an object of class dog how can we invoke the 
+     sound function in animal 
+
+     given an interger of size n and variable k and k <=n , you need to find the maximum sum of any k length subarray with O(n) tc 
+     2 7 11 15 6 3
+    75 14 25 48 3 21 4 66 9 5 2 
+
+    half biryani full biryani
