@@ -15,7 +15,7 @@ int main(){
         }
         else{
             v.push_back(v[i]);
-            i++;
+            
         }
     }
     for (int x:v){
