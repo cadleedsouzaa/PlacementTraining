@@ -44,6 +44,23 @@ Advanced exercises with a focus on string manipulations and LeetCode problems.
 
 ---
 
+### [Day 5](file:///Day%205%20-03.06/) - Stacks, Queues & Intermediate LeetCode Challenges
+Exercises covering stack and queue implementations, standard LeetCode problems involving strings, arrays, stacks, and queues.
+* **Stacks & Queues**:
+  * [stack.cpp](file:///Day%205%20-03.06/stack.cpp) — Stack implementation
+  * [queue.cpp](file:///Day%205%20-03.06/queue.cpp) — Queue implementation
+  * [lc155.cpp](file:///Day%205%20-03.06/lc155.cpp) — LeetCode 155: Min Stack
+  * [lc20.cpp](file:///Day%205%20-03.06/lc20.cpp) — LeetCode 20: Valid Parentheses
+  * [lc1700.cpp](file:///Day%205%20-03.06/lc1700.cpp) — LeetCode 1700: Number of Students Unable to Eat Lunch
+* **Array & String Challenges**:
+  * [lc14.cpp](file:///Day%205%20-03.06/lc14.cpp) — LeetCode 14: Longest Common Prefix
+  * [lc28.cpp](file:///Day%205%20-03.06/lc28.cpp) — LeetCode 28: Find the Index of the First Occurrence in a String
+  * [lc88.cpp](file:///Day%205%20-03.06/lc88.cpp) — LeetCode 88: Merge Sorted Array
+  * [containerwithmostwater.cpp](file:///Day%205%20-03.06/containerwithmostwater.cpp) — LeetCode 11: Container With Most Water
+
+---
+
+
 ## 🛠️ How to Compile and Run
 Ensure you have a C++ compiler (like `g++`) installed on your system. 
 
