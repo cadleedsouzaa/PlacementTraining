@@ -1,0 +1,5 @@
+train ticket booking system 
+book ticket ,register login , cancel the ticket ,
+maintain one array or vector that should hold the type of the class/object, so when u reigster the class the vector should be of type passenger.
+if vector size greater  than 2 then push him to ht ewaiting list queue 
+if wait list greater than 2 then push him into another queue

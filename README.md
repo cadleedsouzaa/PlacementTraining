@@ -60,6 +60,22 @@ Exercises covering stack and queue implementations, standard LeetCode problems i
 
 ---
 
+### [Day 6](file:///Day%206%20-04.06/) - Hashing (Maps) & Hard/Medium LeetCode Challenges
+Exercises covering ordered/unordered maps in C++ STL, complexity comparisons, and LeetCode problems.
+* **Maps & STL**:
+  * [unordered_map.cpp](file:///Day%206%20-04.06/unordered_map.cpp) — Operations on unordered maps
+  * [oop_map.cpp](file:///Day%206%20-04.06/oop_map.cpp) — Map operations integrated with custom classes
+  * [unord_ord.txt](file:///Day%206%20-04.06/unord_ord.txt) — Conceptual notes on ordered vs unordered maps
+* **LeetCode Challenges**:
+  * [lc13.cpp](file:///Day%206%20-04.06/lc13.cpp) — LeetCode 13: Roman to Integer
+  * [lc128.cpp](file:///Day%206%20-04.06/lc128.cpp) — LeetCode 128: Longest Consecutive Sequence
+  * [lc135.cpp](file:///Day%206%20-04.06/lc135.cpp) — LeetCode 135: Candy (Hard)
+  * [lc135_2.cpp](file:///Day%206%20-04.06/lc135_2.cpp) — LeetCode 135: Candy (Alternate implementation)
+  * [lc169.cpp](file:///Day%206%20-04.06/lc169.cpp) — LeetCode 169: Majority Element
+
+---
+
+
 
 ## 🛠️ How to Compile and Run
 Ensure you have a C++ compiler (like `g++`) installed on your system. 

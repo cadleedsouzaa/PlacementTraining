@@ -1,0 +1,9 @@
+Unorderedmap:
+o(1) access
+elements are not in an ordered manner
+mostly used to store the frequency of an element
+
+ordered map:
+o(log n) access
+elements are stored in an ordered manner
+mostly used to store the frequence of an element 
