@@ -72,8 +72,12 @@ Exercises covering ordered/unordered maps in C++ STL, complexity comparisons, an
   * [lc135.cpp](file:///Day%206%20-04.06/lc135.cpp) — LeetCode 135: Candy (Hard)
   * [lc135_2.cpp](file:///Day%206%20-04.06/lc135_2.cpp) — LeetCode 135: Candy (Alternate implementation)
   * [lc169.cpp](file:///Day%206%20-04.06/lc169.cpp) — LeetCode 169: Majority Element
+* **Documentation & Analysis**:
+  * [lc135.docx](file:///Day%206%20-04.06/lc135.docx) — Candy problem description (Word doc)
+  * [lc135.pdf](file:///Day%206%20-04.06/lc135.pdf) — Candy problem analysis (PDF)
 
 ---
+
 
 
 
