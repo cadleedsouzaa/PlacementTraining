@@ -83,8 +83,11 @@ An object-oriented program in C++ simulating a ticket reservation and queue mana
 * **Train Booking Options**:
   * **Option A**: [train_booking.cpp](file:///Day%207%20-%2005.06/a/train_booking.cpp) — Comprehensive version with detailed user dashboards, logging, and permissions.
   * **Option B**: [train_booking.cpp](file:///Day%207%20-%2005.06/b/train_booking.cpp) — Simplified and direct version with clean, minimal OOP syntax.
+* **Notes**:
+  * [cpp_notes.txt](file:///Day%207%20-%2005.06/cpp_notes.txt) — C++ notes covering pointers, typecasting, alignment/padding, and OOP destructors.
 
 ---
+
 
 ## 🛠️ How to Compile and Run
 Ensure you have a C++ compiler (like `g++`) installed on your system. 

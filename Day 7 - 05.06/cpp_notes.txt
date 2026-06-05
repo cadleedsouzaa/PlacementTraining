@@ -1,0 +1,59 @@
+C++ Key Concepts & Notes - Day 7
+================================
+
+1. Pointers & Typecasting
+-------------------------
+int x = 19;
+int *y = &x;
+int **z = &y;
+
+float *a = x; // Error: Cannot convert int to float*
+void *b = &x; // Works, but should be typecasted to use:
+(int*)b;
+
+2. NULL vs nullptr
+------------------
+#define NULL 0*0  // NULL behaves as value 0, so we can perform arithmetic / implicit cast to int
+nullptr           // Points to null, has a distinct type (std::nullptr_t), cannot be implicitly assigned to integer types
+
+3. Boolean Memory size
+----------------------
+- A boolean needs only 1 bit of information (true/false).
+- However, the size of bool is 1 byte due to memory addressability and alignment.
+- The remaining 7 bits are wasted/unused because memory is byte-addressable.
+
+4. Struct Memory Alignment & Padding
+------------------------------------
+- Structs align member variables based on the largest data type size in the struct.
+- Order of declaration affects padding and final struct size:
+
+Example 1: Largest datatype defined first
+struct MyStruct1 {
+    double val;  // 8 bytes
+    int data;    // 4 bytes
+};
+Size: 12 bytes (aligned)
+
+Example 2: Smallest datatype defined first
+struct MyStruct2 {
+    int data;    // 4 bytes (+ 4 bytes padding)
+    double val;  // 8 bytes
+};
+Size: 16 bytes (due to double requiring alignment on 8-byte boundary)
+
+5. Destructor and Constructor syntax
+------------------------------------
+class Node {
+public:
+    Node() {} // Constructor
+
+    ~Node() { // Destructor
+        // Warning: Calling 'delete this' inside a destructor results in infinite recursion/undefined behavior!
+        // delete this; 
+    }
+};
+
+6. Helpful Resources
+--------------------
+- cppreference.com
+- learncpp.com
