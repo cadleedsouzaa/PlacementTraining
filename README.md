@@ -78,8 +78,13 @@ Exercises covering ordered/unordered maps in C++ STL, complexity comparisons, an
 
 ---
 
+### [Day 7](file:///Day%207%20-%2005.06/) - OOP Train Ticket Booking System
+An object-oriented program in C++ simulating a ticket reservation and queue management system.
+* **Train Booking Options**:
+  * **Option A**: [train_booking.cpp](file:///Day%207%20-%2005.06/a/train_booking.cpp) — Comprehensive version with detailed user dashboards, logging, and permissions.
+  * **Option B**: [train_booking.cpp](file:///Day%207%20-%2005.06/b/train_booking.cpp) — Simplified and direct version with clean, minimal OOP syntax.
 
-
+---
 
 ## 🛠️ How to Compile and Run
 Ensure you have a C++ compiler (like `g++`) installed on your system. 
