@@ -14,7 +14,6 @@ int main(){
         }
     }
     // after left pass - 3 2 1 2 3 1 (candies) = 12 
-
     //right pass
     //ratings={5,4,3,5,6,2}
     for (int i=n-2;i>=0;i--){
