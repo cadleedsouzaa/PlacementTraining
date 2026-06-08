@@ -99,6 +99,19 @@ Basic singly and doubly linked list data structures and verification of struct c
 
 ---
 
+### [Day 9](file:///Day%209%20-%2008.06/) - Matrix Operations & Linked List Addition
+Intermediate array, matrix rotation, and linked list addition problems.
+* **Matrix Challenges**:
+  * [lc48.cpp](file:///Day%209%20-%2008.06/lc48.cpp) — LeetCode 48: Rotate Image (90-degree matrix rotation)
+  * [lc54.cpp](file:///Day%209%20-%2008.06/lc54.cpp) — LeetCode 54: Spiral Matrix
+  * [lc73.cpp](file:///Day%209%20-%2008.06/lc73.cpp) — LeetCode 73: Set Matrix Zeroes
+* **Linked Lists & Greedy/DP**:
+  * [lc2.cpp](file:///Day%209%20-%2008.06/lc2.cpp) — LeetCode 2: Add Two Numbers
+  * [min_steps_to_reach_end.cpp](file:///Day%209%20-%2008.06/min_steps_to_reach_end.cpp) — Minimum steps to reach the end of an array (Greedy)
+
+---
+
+
 
 ## 🛠️ How to Compile and Run
 Ensure you have a C++ compiler (like `g++`) installed on your system. 

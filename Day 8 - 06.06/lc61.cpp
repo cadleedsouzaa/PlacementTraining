@@ -21,7 +21,6 @@ void traverse(Node* head){
 }
 
 void rotatelist(Node* &head,int k){
-    cout<<"rotate func start";
     int count=1;
     Node* temp=head;
     while(temp->next!=nullptr){
@@ -31,7 +30,55 @@ void rotatelist(Node* &head,int k){
     temp->next=head;
     Node* a=head;
     k=k%count;
-    for (int i=0;i<count-k;i++){
+    for (int i=0;i<count-k;i++)
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    {
         temp=temp->next;
     }
     a=temp->next;
