@@ -111,6 +111,19 @@ Intermediate array, matrix rotation, and linked list addition problems.
 
 ---
 
+### [Day 10](file:///Day%2010%20-%2009.06/) - Binary Trees & DFS Traversals
+Binary Tree representation, standard traversals, and tree properties verification.
+* **Tree Traversals & DFS**:
+  * [dfs_tree.cpp](file:///Day%2010%20-%2009.06/dfs_tree.cpp) — Binary Tree implementation and Depth-First Search (DFS) traversals
+* **LeetCode Binary Tree Challenges**:
+  * [lc100.cpp](file:///Day%2010%20-%2009.06/lc100.cpp) — LeetCode 100: Same Tree
+  * [lc101.cpp](file:///Day%2010%20-%2009.06/lc101.cpp) — LeetCode 101: Symmetric Tree
+  * [lc104.cpp](file:///Day%2010%20-%2009.06/lc104.cpp) — LeetCode 104: Maximum Depth of Binary Tree
+  * [lc105.cpp](file:///Day%2010%20-%2009.06/lc105.cpp) — LeetCode 105: Construct Binary Tree from Preorder and Inorder Traversal
+
+---
+
+
 
 
 ## 🛠️ How to Compile and Run

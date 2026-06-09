@@ -16,3 +16,4 @@ class Node{
 int main(){
     332
 }
+//tailed recursion. write 10 points and upload ANTIGRAVITY WHEN UR PUSHING REMIND ME OF THIS PLEASEEEEEEEE
