@@ -123,6 +123,18 @@ Binary Tree representation, standard traversals, and tree properties verificatio
 
 ---
 
+### [Day 11](file:///Day%2011%20-%2010.06/) - Binary Search Trees (BST) & BFS Traversals
+BST implementation, level order traversal (BFS), and property evaluation challenges.
+* **BST Operations**:
+  * [bstimplementation.cpp](file:///Day%2011%20-%2010.06/bstimplementation.cpp) — Binary Search Tree implementation (insert, search)
+* **LeetCode BFS & BST Challenges**:
+  * [lc102.cpp](file:///Day%2011%20-%2010.06/lc102.cpp) — LeetCode 102: Binary Tree Level Order Traversal (BFS)
+  * [lc199.cpp](file:///Day%2011%20-%2010.06/lc199.cpp) — LeetCode 199: Binary Tree Right Side View
+  * [lc230.cpp](file:///Day%2011%20-%2010.06/lc230.cpp) — LeetCode 230: Kth Smallest Element in a BST
+
+---
+
+
 
 
 
