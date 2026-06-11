@@ -134,6 +134,15 @@ BST implementation, level order traversal (BFS), and property evaluation challen
 
 ---
 
+### [Day 12](file:///Day%2012%20-%2011.06/) - Graph Representations & Pathfinding
+Graph data structure representation and path existence search algorithms.
+* **Graph Operations**:
+  * [graph.cpp](file:///Day%2012%20-%2011.06/graph.cpp) — Graph representation and traversals
+  * [findthepath.cpp](file:///Day%2012%20-%2011.06/findthepath.cpp) — Pathfinding to determine node connectivity
+
+---
+
+
 
 
 

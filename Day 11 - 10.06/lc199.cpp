@@ -22,7 +22,6 @@ void bfs(TreeNode* root){
             TreeNode* curr=q.front();
             q.pop();
             if(n==0){
-
                 cout << curr->val <<endl;
             }
             if(curr->left!=nullptr){
@@ -41,7 +40,7 @@ int main(){
     root->left=new TreeNode(2);
     root->right=new TreeNode(3);
     root->left->left=new TreeNode(4);
-    // root->right->left=new TreeNode(15)
     root->left->left->left=new TreeNode(5);
     bfs(root);
-    cout<<endl;}
+    cout<<endl;
+}
